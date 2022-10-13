@@ -2,7 +2,7 @@
 
 Explicacion paso a paso de como crear usuarios y grupo
 
--Entrar con usuario root
+-Para comenzar tenemos que entrar con el usuario root
 
 -Para crear usuario utilizamos en comando useradd, lo utilizaremos asi useradd marina useradd yesy ya creamos los usuarios, los verificamos con este comando: nano /etc/passwd se da Ctrl + x para salir
 
