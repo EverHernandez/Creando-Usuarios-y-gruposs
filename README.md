@@ -1,6 +1,6 @@
 # Creando-Usuarios-y-gruposs
 
-Explicacion paso a paso de como crear usuarios y grupo
+Explicacion paso a paso de como crear usuarios y grupos
 
 -Para comenzar tenemos que entrar con el usuario root
 
